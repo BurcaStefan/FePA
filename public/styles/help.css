@@ -1,0 +1,48 @@
+.title {
+  height: auto;
+  margin: 20vh 24vw 0;
+  padding-top: 4vh;
+  color: lightslategray;
+  font-size: 3vw;
+}
+
+.block {
+  height: 100%;
+  display: block;
+  align-items: center;
+  margin: 10vh 10vw 20vh;
+  border-radius: 20px;
+  background-color: rgba(253, 232, 205, 0.8);
+}
+
+.block p {
+  background-color: rgba(253, 232, 205, 0.7);
+  color: lightslategray;
+  border-radius: 15px;
+}
+
+.question {
+  display: flex;
+  justify-content: space-between;
+}
+
+.help-text {
+  color: lightslategray;
+  padding: 6vw 2vw 6vw 6vw;
+}
+
+.help-text-title {
+  font-size: 3vw;
+}
+
+.help-text-text {
+  font-size: 1vw;
+  text-align: left;
+}
+
+.help-image-image {
+  padding: 4vw;
+  width: 32vw;
+  height: 20vw;
+  border-radius: 6vw;
+}
